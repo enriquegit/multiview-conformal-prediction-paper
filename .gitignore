@@ -1,0 +1,9 @@
+
+*.pdf
+*.desktop.ini
+*.Rhistory
+**/data/*/results_*
+**/__pycache__
+**/.ipynb_checkpoints
+data/berkeley/classes.csv
+data/htad/classes.csv
